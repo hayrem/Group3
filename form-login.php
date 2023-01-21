@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="">
+    <form action="" method="post">
         <div class="name">
             <input type="text" name="frist-name">
             <input type="text" name="last-name">
